@@ -1,6 +1,5 @@
 # Simulator-2021
-i developed this plant inspired solar cell energy yield simulator for project research at my highschool in 2021.
-this simulator just rotate the structure and calculate summation of area.
+I developed this plant-inspired solar cell energy yield simulator in 2021 for a research project at my high school. The simulator rotates the structure and calculates the total area for energy yield estimation.
 
-## simulation image
+## Simulation Image
 ![image](https://github.com/user-attachments/assets/833f28e5-43a3-4f40-8ebb-acf5be622db1)
